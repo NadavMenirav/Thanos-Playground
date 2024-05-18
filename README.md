@@ -1,2 +1,2 @@
 # Thanos-Playground
-Intro-to-CS-Assignment2
+Intro to CS Assignment2
